@@ -6,6 +6,8 @@
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoCampos-25&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCampos-25)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que uso no meu dia:
 
 <div style="display: inline_block"><br/>
